@@ -1,7 +1,7 @@
 import App from "./App";
 import ReactDOM from "react-dom";
 import { ContextProvider } from "../src/Context/Context";
-import {BrowserRouter as Router} from 'react-router-dom'
+import {HashRouter as Router} from 'react-router-dom'
 import { AuthContextProvider } from "./Context/AuthContext";
 
 ReactDOM.render(
