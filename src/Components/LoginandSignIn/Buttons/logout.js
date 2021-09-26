@@ -1,5 +1,5 @@
-import { useContext } from 'react'
-import { useState } from 'react/cjs/react.development'
+import { useContext, useState } from 'react'
+// import { useState } from 'react/cjs/react.development'
 import {AuthContext} from '../../../Context/AuthContext'
 import {useHistory} from 'react-router-dom'
 
@@ -27,7 +27,7 @@ function LogOut(){
         <div className='logoutContainer'>
             {error && error}
             <h4>{authCtx.currentUser.email}</h4>
-            <button className="logOutBtn" onClick={onLogOutHandler}>Logout</button>
+            <button className="logOutBtn" onClick={()=>onLogOutHandler()}>Logout</button>
         </div>
     )
 }
