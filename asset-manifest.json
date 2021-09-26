@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/pixelShare/static/js/main.c83c8cd6.chunk.js",
-    "main.js.map": "/pixelShare/static/js/main.c83c8cd6.chunk.js.map",
+    "main.js": "/pixelShare/static/js/main.1073dd18.chunk.js",
+    "main.js.map": "/pixelShare/static/js/main.1073dd18.chunk.js.map",
     "runtime-main.js": "/pixelShare/static/js/runtime-main.58b38c6f.js",
     "runtime-main.js.map": "/pixelShare/static/js/runtime-main.58b38c6f.js.map",
-    "static/js/2.ab4d8ab4.chunk.js": "/pixelShare/static/js/2.ab4d8ab4.chunk.js",
-    "static/js/2.ab4d8ab4.chunk.js.map": "/pixelShare/static/js/2.ab4d8ab4.chunk.js.map",
+    "static/js/2.3e422eaa.chunk.js": "/pixelShare/static/js/2.3e422eaa.chunk.js",
+    "static/js/2.3e422eaa.chunk.js.map": "/pixelShare/static/js/2.3e422eaa.chunk.js.map",
     "index.html": "/pixelShare/index.html",
-    "static/js/2.ab4d8ab4.chunk.js.LICENSE.txt": "/pixelShare/static/js/2.ab4d8ab4.chunk.js.LICENSE.txt",
+    "static/js/2.3e422eaa.chunk.js.LICENSE.txt": "/pixelShare/static/js/2.3e422eaa.chunk.js.LICENSE.txt",
     "static/media/landscape.ab92261d.jpg": "/pixelShare/static/media/landscape.ab92261d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.58b38c6f.js",
-    "static/js/2.ab4d8ab4.chunk.js",
-    "static/js/main.c83c8cd6.chunk.js"
+    "static/js/2.3e422eaa.chunk.js",
+    "static/js/main.1073dd18.chunk.js"
   ]
 }
