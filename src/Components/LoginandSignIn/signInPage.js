@@ -29,7 +29,7 @@ function SignInPage(){
             setError("")
             setLoading(true)
             await authCtx.signUp(emailRef.current.value, passwordRef.current.value)
-            history.push('/pixelShare')
+            history.push('/')
         } catch {
             setError("Failed to create account")
         }

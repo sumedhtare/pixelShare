@@ -22,7 +22,7 @@ function LogInPage(){
             setError("")
             setLoading(true)
             await authCtx.logIn(emailRef.current.value, passwordRef.current.value)
-            history.push('/pixelShare')
+            history.push('/')
         } catch {
             setError("Failed to Log In")
         }
@@ -38,7 +38,7 @@ function LogInPage(){
             setError("")
             setLoading(true)
             await authCtx.logIn('test@pixels.com', "test12345")
-            history.push('/pixelShare')
+            history.push('/')
         } catch {
             setError("Failed to Log In")
         }
