@@ -28,12 +28,7 @@ function App() {
           <LogInPage />
         </Route>
 
-
       </Switch>
-
-
-
-        
     </React.Fragment>
   );
 }
